@@ -31,7 +31,7 @@ export const config = {
 	poster: '',
 	// When the video is ended, show the poster.
 	showPosterWhenEnded: false,
-	// When the video is paused, show the poster.
+	// When the video is paused, show the poster..
 	showPosterWhenPaused: false,
 	// Default if the <video width> is not specified
 	defaultVideoWidth: 480,
